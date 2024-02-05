@@ -1,8 +1,7 @@
-# itemtracker
-Simple web app to store and display items that one collect. Can be used for any sort of collection.
-<<<<<<< Updated upstream
+Simple web app to store and display items that one collect. Can be used for any sort of collection
 
 another test XD
-=======
 
->>>>>>> Stashed changes
+test test im really cool :D
+
+
